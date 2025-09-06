@@ -87,7 +87,7 @@ De esta forma se comprobó el correcto funcionamiento del flujo completo.
 ---
 
 ## ✅ Checklist para GitHub
-```bash
+
 mkdir -p Laboratorio2/screenshots
 cp coreografia_pepper.py Laboratorio2/
 cd Laboratorio2
