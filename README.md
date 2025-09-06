@@ -88,12 +88,12 @@ De esta forma se comprobó el correcto funcionamiento del flujo completo.
 
 ## ✅ Checklist para GitHub
 
-mkdir -p Laboratorio2/screenshots
-cp coreografia_pepper.py Laboratorio2/
-cd Laboratorio2
-git init
-git add .
-git commit -m "Laboratorio 2 - Coreografía con Pepper"
-git remote add origin https://github.com/USUARIO/REPO.git
-git push -u origin main
+- mkdir -p Laboratorio2/screenshots
+- cp coreografia_pepper.py Laboratorio2/
+- cd Laboratorio2
+- git init
+- git add .
+- git commit -m "Laboratorio 2 - Coreografía con Pepper"
+- git remote add origin https ://github.com/USUARIO/REPO.git
+- git push -u origin main
 
