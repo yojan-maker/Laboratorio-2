@@ -1,10 +1,10 @@
-# Laboratorio 2 – Interacción con el robot Pepper  
+# Laboratorio 2 – Interacción con el robot Pepper  🤖
 
 Este laboratorio tiene como objetivo explorar el uso de **Pepper**, un robot humanoide diseñado para la interacción social, aprendiendo a utilizar sus librerías principales, la plataforma **Choregraphe** y la ejecución de código directamente en el robot mediante **SSH**.  
 
 ---
 
-## Contenidos  
+##  📁 Contenidos  
 
 1. **Investigación de librerías utilizadas en Pepper**  
    - `qi`: Comunicación y control del robot.  
@@ -31,10 +31,6 @@ Este laboratorio tiene como objetivo explorar el uso de **Pepper**, un robot hum
    - Ejemplo de movimientos básicos utilizando las librerías investigadas.  
    - Ejecución y validación en el robot.  
 
-4. **Documentación en Overleaf**  
-   - Informe con el paso a paso de la práctica.  
-   - Explicación del uso de las librerías en el código.  
-   - Evidencia de la interacción con Pepper.  
 
 ---
 
