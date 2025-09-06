@@ -2,7 +2,7 @@
 
 Este laboratorio documenta el proceso de creación de una **coreografía sencilla** para el robot **Pepper**, utilizando la herramienta **Choregraphe** y un **script en Python** ejecutado directamente en el robot mediante **SSH**. Incluye la explicación de las librerías utilizadas, los pasos de conexión y el despliegue en GitHub.
 
----
+-----
 
 ## 📌 Objetivos
 - Diseñar una coreografía básica en **Choregraphe**.  
@@ -11,7 +11,7 @@ Este laboratorio documenta el proceso de creación de una **coreografía sencill
 - Documentar las librerías y servicios utilizados.  
 - Subir el trabajo al repositorio de GitHub en la carpeta `Laboratorio 2`.
 
----
+-----
 
 ## 🛠️ Requisitos previos
 - Robot **Pepper** y computador en la **misma red Wi-Fi**.  
@@ -21,7 +21,7 @@ Este laboratorio documenta el proceso de creación de una **coreografía sencill
 - Acceso a la terminal con `ssh` y `scp`.  
 - Python 2.7 en el robot.  
 
----
+-----
 
 ## 🎭 Coreografía en Choregraphe
 1. Abrir **Choregraphe** y crear un proyecto nuevo.  
@@ -34,7 +34,7 @@ Este laboratorio documenta el proceso de creación de una **coreografía sencill
 5. Conectar a Pepper (`Connection → Connect to...`) e introducir su IP.  
 6. Subir la coreografía al robot con **Upload and Run**.  
 
----
+-----
 
 ## 💻 Trabajo en Python mediante SSH
 
@@ -66,7 +66,7 @@ Durante la ejecución, el robot realizó en orden:
 
 De esta forma se comprobó el correcto funcionamiento del flujo completo.
 
----
+-----
 
 ## 📚 Librerías y servicios utilizados
 - **qi** → Conexión a servicios de Pepper (NAOqi).  
@@ -84,7 +84,7 @@ De esta forma se comprobó el correcto funcionamiento del flujo completo.
 - **ALLeds** → Control de LEDs faciales.  
 - **time** → Pausas y sincronización.  
 
----
+-----
 
 ## ✅ Checklist para GitHub
 
